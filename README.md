@@ -58,7 +58,7 @@ AtliQ Grands, a well-established player in the Indian hospitality industry for t
 * Microsoft Power BI.
 * Microsoft Excel.
 * Power Query
-* 
+
 ## Development Approach:
 
 The project development approach involves utilizing Microsoft Power BI and Microsoft Excel tools for data analysis and visualization, respectively. Data exploration and cleaning are the initial steps, followed by data modeling to establish relationships between tables. DAX measures are created for performance evaluation, and a comprehensive dashboard is built for dynamic and interactive data visualization. The focus is on delivering concise and conclusion-based insights suitable for managerial-level stakeholders.
