@@ -1,4 +1,36 @@
-# Revenue Analysis for a Hotel Brand in the Hospitality Domain
+# Bookings Analysis for a 5-star Hotel Chain Brand 
+
+
+
+## Project Theme:
+AtliQ Grands, a well-established player in the Indian hospitality industry for two decades, is experiencing a decline in market share and revenue due to competitive pressures and management inefficiencies. As part of a strategic initiative to regain market share and revenue, the managing director aims to integrate Business and Data Intelligence. Lacking an in-house analytics team, the revenue management team seeks to engage a third-party service provider (you, as a Data Analyst) to extract insights from historical data.
+
+## Tools Implemented:
+
+* Microsoft Power BI.
+* Microsoft Excel.
+* Power Query
+
+## Development Approach:
+
+The project development approach involves utilizing Microsoft Power BI and Microsoft Excel tools for data analysis and visualization, respectively. Data exploration and cleaning are the initial steps, followed by data modeling to establish relationships between tables. DAX measures are created for performance evaluation, and a comprehensive dashboard is built for dynamic and interactive data visualization. The focus is on delivering concise and conclusion-based insights suitable for managerial-level stakeholders.
+
+The Project Development comprises following key steps-
+1. Understanding Source data and analytical goals.
+2. Data Cleaning
+3. Data Modelling.
+4. Creating DAX measures and Columns.
+5. Data Visualization OR Dashboarding .
+6. Extract key Insights.
+
+## Project Files:
+
+1. Final Project- [Project.pbix](https://github.com/NIKKHIL-B-LOSARWAR/PowerBI_Project--Revenue_Insights_Analysis_for_a_Hospitality_domain_Brand/blob/main/Project.pbix)
+2. Project Report- [Project Report.pdf](https://github.com/NIKKHIL-B-LOSARWAR/PowerBI_Project--Revenue_Insights_Analysis_for_a_Hospitality_domain_Brand/blob/main/Project%20Report.pdf)
+3. Raw Data Provided- [Raw Data folder](https://github.com/NIKKHIL-B-LOSARWAR/PowerBI_Project--Revenue_Insights_Analysis_for_a_Hospitality_domain_Brand/tree/main/Raw%20Data)
+4. Project Screnshots- [Project Screenshots folder](https://github.com/NIKKHIL-B-LOSARWAR/PowerBI_Project--Revenue_Insights_Analysis_for_a_Hospitality_domain_Brand/tree/main/Project%20Screenshots)
+
+
 
 
 ## Preview (Screenshots):
@@ -50,30 +82,4 @@
 <img width="910" alt="Trend line-2...img" src="https://github.com/NIKKHIL-B-LOSARWAR/PowerBI_Project--Revenue_Insights_Analysis_for_a_Hospitality_domain_Brand/assets/156224014/415eef23-a5f3-42ec-9e67-e1095d724bb3">
 
 
-## Project Theme:
-AtliQ Grands, a well-established player in the Indian hospitality industry for two decades, is experiencing a decline in market share and revenue due to competitive pressures and management inefficiencies. As part of a strategic initiative to regain market share and revenue, the managing director aims to integrate Business and Data Intelligence. Lacking an in-house analytics team, the revenue management team seeks to engage a third-party service provider (you, as a Data Analyst) to extract insights from historical data.
-
-## Tools Implemented:
-
-* Microsoft Power BI.
-* Microsoft Excel.
-* Power Query
-
-## Development Approach:
-
-The project development approach involves utilizing Microsoft Power BI and Microsoft Excel tools for data analysis and visualization, respectively. Data exploration and cleaning are the initial steps, followed by data modeling to establish relationships between tables. DAX measures are created for performance evaluation, and a comprehensive dashboard is built for dynamic and interactive data visualization. The focus is on delivering concise and conclusion-based insights suitable for managerial-level stakeholders.
-
-The Project Development comprises following key steps-
-1. Understanding Source data and analytical goals.
-2. Data Cleaning
-3. Data Modelling.
-4. Creating DAX measures and Columns.
-5. Data Visualization OR Dashboarding .
-6. Extract key Insights.
-
-## Project Files:
-
-1. Final Project- [Project.pbix](https://github.com/NIKKHIL-B-LOSARWAR/PowerBI_Project--Revenue_Insights_Analysis_for_a_Hospitality_domain_Brand/blob/main/Project.pbix)
-2. Project Report- [Project Report.pdf](https://github.com/NIKKHIL-B-LOSARWAR/PowerBI_Project--Revenue_Insights_Analysis_for_a_Hospitality_domain_Brand/blob/main/Project%20Report.pdf)
-3. Raw Data Provided- [Raw Data folder](https://github.com/NIKKHIL-B-LOSARWAR/PowerBI_Project--Revenue_Insights_Analysis_for_a_Hospitality_domain_Brand/tree/main/Raw%20Data)
-4. Project Screnshots- [Project Screenshots folder](https://github.com/NIKKHIL-B-LOSARWAR/PowerBI_Project--Revenue_Insights_Analysis_for_a_Hospitality_domain_Brand/tree/main/Project%20Screenshots)
+Thank You . . . :)
